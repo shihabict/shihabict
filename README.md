@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Software Engineer (NLP) here in Dhaka
+- 🔭 Currently I’m working as a Senior Software Engineer here in Dhaka, Bangladesh
 
 - 🌱 I’m a all time learner of **Data Structures and Algorithms.**
 

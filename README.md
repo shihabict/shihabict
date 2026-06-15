@@ -8,8 +8,6 @@
 
 - 🔭 I started my PhD in Computer Engineering in the University of Alabama in Huntsville, USA.
 
-- 🌱 I’m a all time learner of **Data Structures and Algorithms.**
-
 - 👯 I love to play with **Data**
 
 

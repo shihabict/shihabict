@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I started my PhD in Computer Engineering in the University of Alabama in Huntsville, USA.
+- 🔭 I am a PhD student in Computer Engineering at the University of Alabama in Huntsville, USA.
 
 - 👯 I love to play with **Data**
 
